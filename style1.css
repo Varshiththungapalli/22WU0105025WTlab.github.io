@@ -1,0 +1,49 @@
+body
+{
+ background-image:
+    url("brown.jpg");;
+}
+.image1 img {
+    border-radius: 50%;
+    
+    }
+.image1
+{
+    display: flex;
+    justify-content: center;
+    align-items: :center;
+    height: 25vh;
+}  
+#a1
+{
+    font-family: Copperplate Gothic Light;
+    display: flex;
+    justify-content: center;
+    align-items: :center;
+    height: 4vh;
+}
+#a2
+{
+    font-family: Copperplate Gothic Light;
+    display: flex;
+    justify-content: center;
+    align-items: :center;
+    height: 5vh;
+}
+*
+{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: medium;
+}
+h3
+{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: Copperplate Gothic Light;
+    padding: 200px 0;
+    font-size: 2em;
+    background-image: -webkit-linear-gradient(#000000);
+    border-radius:6px;
+    padding: 3px 6px;
+}
+
